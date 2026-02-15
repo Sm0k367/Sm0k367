@@ -1,28 +1,25 @@
 import re
 import requests
 
-# CONFIGURATION
+# This points to your Suno profile
 SUNO_USER_URL = "https://suno.com/@dj_smoke_stream"
 README_PATH = "README.md"
 
 def get_latest_suno_track():
     try:
-        # Note: In a production agentic workflow, we'd use a headless browser 
-        # or the internal Suno API endpoint if available.
-        # This is a placeholder for the logic that grabs your top track.
-        response = requests.get(SUNO_USER_URL)
-        # Mock logic: Replace with actual scraping logic or API call
-        track_name = "Absolute Algorithm of Existence" 
+        # For now, this acts as a high-tier placeholder. 
+        # When Suno's API/scrapers update, you change this one line.
+        track_name = "Absolute Algorithm" 
         return f"🎧 Latest Drop: **{track_name}**"
     except Exception as e:
-        print(f"Error fetching Suno tracks: {e}")
+        print(f"Error: {e}")
         return None
 
 def update_readme(new_content):
     with open(README_PATH, "r", encoding="utf-8") as f:
         readme = f.read()
 
-    # Regex to find the space between our markers
+    # This looks for the markers we will add to your README in the next step
     pattern = r"()(.*)()"
     replacement = f"\\1\n{new_content}\n\\3"
     
@@ -35,4 +32,4 @@ if __name__ == "__main__":
     content = get_latest_suno_track()
     if content:
         update_readme(content)
-        print("Successfully updated README with latest Suno vibe.")
+        print("Vibe synced.")
