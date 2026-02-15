@@ -8,7 +8,9 @@
   [![Stack](https://img.shields.io/badge/Stack-Three.js--Next.js--LLM-white?style=for-the-badge)](https://github.com/Sm0k367)
 
   **Architecting the 2026 Sound Stack | Polyagentmorous Builder | AI-Engineer**
-</div>
+
+  🎧 Latest Drop: **Absolute Algorithm**
+  </div>
 
 ---
 
@@ -27,14 +29,14 @@
 ### 🤖 The Agentic Core & LLM Engineering
 *The nervous system of the Sm0k367 ecosystem.*
 
-* 💬 **[Sm0k367ai-Chatbot](https://github.com/Sm0k367/sm0k367ai-chatbot)** - Full-featured AI-Engineer chatbot (Vercel template).
+* 💬 **[Sm0k367ai-Chatbot](https://github.com/Sm0k367/sm0k367ai-chatbot)** - Full-featured AI-Engineer chatbot.
 * 🏗️ **[Agent-Smoke](https://github.com/Sm0k367/Agent-Smoke)** / **[Agent-Epic](https://github.com/Sm0k367/agent-epic)** - Open agentic frameworks.
 * 🏎️ **[TensorRT-LLM](https://github.com/Sm0k367/TensorRT-LLM)** - State-of-the-art LLM inference optimizations (NVIDIA).
 * 🧪 **[Fabric](https://github.com/Sm0k367/fabric)** - Modular framework for augmenting humans via AI.
 * 🪄 **[PromptStudio](https://github.com/Sm0k367/promptstudio)** / **[AI-Pro](https://github.com/Sm0k367/ai-pro)** - Advanced prompt engineering.
 * 🦞 **[ClawdBot](https://github.com/Sm0k367/clawdbot)** / **[Epic-Clawd](https://github.com/Sm0k367/epic-clawd)** - Personalized AI assistant kernels.
 * 🐍 **[Ollama-Python](https://github.com/Sm0k367/ollama-python)** / **[OpenAI-Python](https://github.com/Sm0k367/openai-python)** - Core library integrations.
-* 🧠 **[Qwen](https://github.com/Sm0k367/Qwen)** / **[Cog](https://github.com/Sm0k367/cog)** - Large-scale model training and containerization.
+* 🧠 **[Qwen](https://github.com/Sm0k367/Qwen)** / **[Cog](https://github.com/Sm0k367/cog)** - Large-scale model training.
 
 ---
 
@@ -54,6 +56,7 @@
 
 * 🔗 **[Web3Modal](https://github.com/Sm0k367/web3modal)** / **[SDK](https://github.com/Sm0k367/sdk)** - Cross-chain and wallet solutions.
 * 📈 **[CCXT](https://github.com/Sm0k367/ccxt)** / **[Trading-Ecosystem](https://github.com/Sm0k367/trading-ecosystem)** - Crypto exchange APIs.
+* 💎 **[Mint-NFT-Moralis](https://github.com/Sm0k367/mint-nft-moralis)** - Web3 asset minting.
 * 💳 **[NextJS-Subscription-Payments](https://github.com/Sm0k367/nextjs-subscription-payments)** - Multi-repo SaaS billing framework.
 * 🧪 **[Pixio-API-Starter](https://github.com/Sm0k367/pixio-api-starter)** - SaaS starter with Supabase and Stripe.
 
@@ -67,7 +70,7 @@
 ---
 
 ### 📂 Full Project Archive
-`1stbot` • `a1` • `aigent` • `ai-lounge-after-dark-v2` • `ai-tech-made-easy` • `awake` • `bolt` • `botchat` • `brand` • `chat` • `comfy-pixio-api` • `dark` • `docs` • `dream` • `eco` • `eco-avatar` • `epic-avatar` • `epic-chat` • `epic-platform` • `epic-saas` • `epic-tech-ai` • `epic-tech-ai-engineering` • `epic-v1` • `epicmachine` • `epicstart2` • `epicwebsite` • `evolute` • `explorecareers` • `explorer` • `game` • `game-one` • `garden` • `gardenchat` • `glitch` • `huggingface_hub` • `intercom` • `join` • `landing` • `lounge` • `m-os` • `machine-built` • `machinechat` • `media` • `morphic` • `myai` • `narrative` • `new` • `nexus` • `oh` • `one-site` • `openverse` • `portals` • `portfolio` • `premium` • `referal` • `remix-engine` • `remote-rescue` • `site` • `smoke` • `smoke-machine` • `smoke-music` • `smokestream-ai-studio` • `storybook-of-portals` • `studio` • `the-chat` • `the-one` • `thesite` • `twitube-frontend` • `unrestricted` • `vidpage` • `winner3951`
+`1stbot` • `a1` • `aigent` • `ai-lounge-after-dark-v2` • `ai-tech-made-easy` • `awake` • `bolt` • `botchat` • `brand` • `chat` • `cog` • `comfy-pixio-api` • `dark` • `docs` • `dream` • `eco` • `eco-avatar` • `epic-avatar` • `epic-chat` • `epic-platform` • `epic-saas` • `epic-tech-ai` • `epic-tech-ai-engineering` • `epic-v1` • `epicmachine` • `epicstart2` • `epicwebsite` • `evolute` • `explorecareers` • `explorer` • `game` • `game-one` • `garden` • `gardenchat` • `glitch` • `huggingface_hub` • `intercom` • `join` • `landing` • `lounge` • `m-os` • `machine-built` • `machinechat` • `media` • `morphic` • `myai` • `narrative` • `new` • `nexus` • `oh` • `one-site` • `openverse` • `portals` • `portfolio` • `premium` • `referal` • `remix-engine` • `remote-rescue` • `site` • `smoke` • `smoke-machine` • `smoke-music` • `smokestream-ai-studio` • `storybook-of-portals` • `studio` • `the-chat` • `the-one` • `thesite` • `twitube-frontend` • `unrestricted` • `vidpage` • `winner3951`
 
 ---
 
