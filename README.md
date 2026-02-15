@@ -1,4 +1,4 @@
-![DJ Smoke Banner](Screenshot 2026-02-15 141100)
+![DJ Smoke Banner](banner.png)
 
 # Hi, I'm Sm0k367 👋
 
