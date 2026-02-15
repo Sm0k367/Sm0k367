@@ -1,3 +1,5 @@
+![DJ Smoke Banner](Screenshot 2026-02-15 141100)
+
 # Hi, I'm Sm0k367 👋
 
 📍 **Cyberspace ↔ The Lab** | 🤖 **Polyagentmorous Builder** | 🚀 **Absolute Algorithm Architect**
@@ -15,6 +17,7 @@ Deep in vibe-coding mode—building AI-powered visual and audio tools at 1000x s
 * 🕹️ **[Matrix1](https://github.com/Sm0k367/matrix1)** - High-performance engine for spatial interactions.
 * 🦞 **[TSL-Organic-Metaverse](https://github.com/Sm0k367/tsl-organic-metaverse)** - Spatial computing and organic digital environments.
 * 🎭 **[Lyric-Visualizer-v2.0](https://github.com/Sm0k367/lyric-visualizer-v2.0)** - Kinetic typography and audio-reactive visuals.
+* 🐚 **[Crablist](https://github.com/Sm0k367/crablist)** - High-speed HTML listing engine.
 
 ---
 
@@ -28,6 +31,7 @@ Deep in vibe-coding mode—building AI-powered visual and audio tools at 1000x s
 * 🧪 **[Fabric](https://github.com/Sm0k367/fabric)** - Modular framework for augmenting humans via crowdsourced prompts.
 * 🪄 **[PromptStudio](https://github.com/Sm0k367/promptstudio)** / **[AI-Pro](https://github.com/Sm0k367/ai-pro)** - Advanced prompt engineering workbenches.
 * 🐍 **[Ollama-Python](https://github.com/Sm0k367/ollama-python)** / **[OpenAI-Python](https://github.com/Sm0k367/openai-python)** - Core library integrations.
+* 🧠 **[Qwen](https://github.com/Sm0k367/Qwen)** / **[Cog](https://github.com/Sm0k367/cog)** - Large-scale model training and containerization.
 
 ---
 
@@ -63,12 +67,12 @@ Deep in vibe-coding mode—building AI-powered visual and audio tools at 1000x s
 
 ### 🎭 Identity & Avatars
 * 👤 **[Eco-Avatar](https://github.com/Sm0k367/eco-avatar)** / **[Epic-Avatar](https://github.com/Sm0k367/epic-avatar)** / **[Avatar](https://github.com/Sm0k367/avatar)** - Synthetic identity generation.
-* ✨ **[Masterpiece](https://github.com/Sm0k367/masterpiece)** - Generative art showcase.
+* ✨ **[Masterpiece](https://github.com/Sm0k367/masterpiece)** / **[Epic-Media](https://github.com/Sm0k367/epic-media)** - Visual storytelling and generative assets.
 
 ---
 
-### 📂 Full Project Index (By Evolution)
-`1stbot` • `a1` • `aigent` • `ai-lounge-after-dark-v2` • `ai-tech-made-easy` • `awake` • `bolt` • `botchat` • `brand` • `chat` • `cog` • `comfy-pixio-api` • `crablist` • `dark` • `docs` • `dream` • `eco` • `enter` • `epic-chat` • `epic-media` • `epic-platform` • `epic-saas` • `epic-tech-ai` • `epic-tech-ai-engineering` • `epic-v1` • `epicmachine` • `epicstart2` • `epicwebsite` • `evolute` • `explorecareers` • `explorer` • `game` • `game-one` • `garden` • `gardenchat` • `glitch` • `huggingface_hub` • `intercom` • `join` • `landing` • `lounge` • `m-os` • `machine-built` • `machinechat` • `media` • `morphic` • `myai` • `narrative` • `new` • `nexus` • `oh` • `one-site` • `openverse` • `portals` • `portfolio` • `premium` • `referal` • `remix-engine` • `remote-rescue` • `site` • `smoke` • `smoke-machine` • `smoke-music` • `smokestream-ai-studio` • `storybook-of-portals` • `studio` • `the-chat` • `the-one` • `thesite` • `twitube-frontend` • `unrestricted` • `vidpage` • `winner3951`
+### 📂 Full Project Archive (Alphabetical Index)
+`1stbot` • `a1` • `aigent` • `ai-lounge-after-dark-v2` • `ai-tech-made-easy` • `awake` • `bolt` • `botchat` • `brand` • `chat` • `cog` • `comfy-pixio-api` • `dark` • `docs` • `dream` • `eco` • `enter` • `epic-chat` • `epic-platform` • `epic-saas` • `epic-tech-ai` • `epic-tech-ai-engineering` • `epic-v1` • `epicmachine` • `epicstart2` • `epicwebsite` • `evolute` • `explorecareers` • `explorer` • `game` • `game-one` • `garden` • `gardenchat` • `glitch` • `huggingface_hub` • `intercom` • `join` • `landing` • `lounge` • `m-os` • `machine-built` • `machinechat` • `media` • `morphic` • `myai` • `narrative` • `new` • `nexus` • `oh` • `one-site` • `openverse` • `portals` • `portfolio` • `premium` • `referal` • `remix-engine` • `remote-rescue` • `site` • `smoke` • `smoke-machine` • `smoke-music` • `smokestream-ai-studio` • `storybook-of-portals` • `studio` • `the-chat` • `the-one` • `thesite` • `twitube-frontend` • `unrestricted` • `vidpage` • `winner3951`
 
 ---
 
@@ -80,4 +84,4 @@ Deep in vibe-coding mode—building AI-powered visual and audio tools at 1000x s
 ### 🛡️ Philosophy
 > "If the vibe is right, the code follows." I build tools to solve my own problems, then scale them until they become the absolute algorithm.
 
-[Suno @dj_smoke_stream](https://suno.com/@dj_smoke_stream) | [X/Twitter](https://x.com/Sm0k367) | [EpicTech](https://epictech.ai)
+[Suno @dj_smoke_stream](https://suno.com/@dj_smoke_stream) | [X/Twitter](https://x.com/Sm0k367) | [EpicTech](epictechai@gmail.com)
