@@ -1,0 +1,32 @@
+name: Suno Track Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every night at midnight
+  workflow_dispatch: # This adds a "Run" button so you can test it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Update Script
+        run: python update_suno.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Sm0k367-Bot"
+          git config --global user.email "bot@epictech.ai"
+          git add README.md
+          git commit -m "chore: update latest suno vibe" || exit 0
+          git push
