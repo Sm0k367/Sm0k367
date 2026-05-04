@@ -29,7 +29,7 @@
 
   <br/>
 
-  <a href="https://x.com/Sm0k367"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/Sm0ken420"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://suno.com/@dj_smoke_stream"><img src="https://img.shields.io/badge/Suno-FF6B35?style=flat-square&logo=soundcloud&logoColor=white" /></a>
   <a href="mailto:epictechai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
