@@ -302,7 +302,7 @@ Powered by Vienna coffee culture & high-fidelity bass. ☕🔊
 
 <a href="mailto:epictechai@gmail.com"><img src="https://img.shields.io/badge/📧_Email-epictechai@gmail.com-ff6b35?style=for-the-badge" /></a>
 <a href="https://suno.com/@dj_smoke_stream"><img src="https://img.shields.io/badge/🎵_Suno-DJ_Smoke_Stream-blueviolet?style=for-the-badge" /></a>
-<a href="https://x.com/Sm0k367"><img src="https://img.shields.io/badge/𝕏_Twitter-@Sm0k367-000?style=for-the-badge" /></a>
+<a href="https://x.com/Sm0ken420"><img src="https://img.shields.io/badge/𝕏_Twitter-@Sm0ken420-000?style=for-the-badge" /></a>
 
 <br/><br/>
 
